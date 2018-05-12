@@ -1,5 +1,8 @@
 _repo: The-Last-Trail_9932
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -20,6 +23,8 @@ description: Known by the Indians as le vent de la mort (the wind of death), Wet
   whose dash for gunpowder in the defense of Fort Henry during the Revolutionary War
   is now legendary, and her brother, Colonel Ebenezer Zane, are also among the characters
   in this novel, older now, sharing their wisdom and experiences with a younger generation.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9932#The-Last-Trail
 gutenberg_bookshelf: Western
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
